@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm jatinder</h1>
-<h3 align="center">A passionate</h3>
+<h3 align="center">A passionate at working in </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinder-s1&label=Profile%20views&color=0e75b6&style=flat" alt="jatinder-s1" /> </p>
 
-- 📫 How to reach me **jatinderbawa507@gmail.com**
+- 📫 How to reach me **jatinders2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
